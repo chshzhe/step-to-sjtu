@@ -64,7 +64,7 @@ prp和大创
 
 [https://www.cnmooc.org](https://www.cnmooc.org/home/index.mooc)
 
-部分课程会要求在Mooc平台上完成作业
+部分课程会要求在MOOC平台上完成作业
 
 ## 电子信息与电气工程学院
 
