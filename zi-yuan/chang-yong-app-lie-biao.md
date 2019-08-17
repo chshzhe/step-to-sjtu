@@ -4,13 +4,13 @@
 
 ### 同去网
 
-https://tongqu.me
+[https://tongqu.me](https://tongqu.me)
 
 同去网移动端APP，校内的各类活动会在同去网上发布
 
 ### 一门式服务
 
-http://my.sjtu.edu.cn
+[http://my.sjtu.edu.cn](http://my.sjtu.edu.cn)
 
 我的数字交大移动端APP，充缴电费、出国境审批等
 
@@ -20,13 +20,13 @@ http://my.sjtu.edu.cn
 
 ### 好大学在线
 
-https://www.cnmooc.org
+[https://www.cnmooc.org](https://www.cnmooc.org)
 
 好大学在线移动端APP，完成部分课程要求的MOOC部分
 
 ### 交大云盘
 
-https://jbox.sjtu.edu.cn/
+[https://jbox.sjtu.edu.cn/](https://jbox.sjtu.edu.cn/)
 
 交大云盘移动端APP
 
@@ -54,5 +54,5 @@ https://jbox.sjtu.edu.cn/
 
 手机刷码乘地铁，手机自带NFC也可
 
-#### 滴滴出行 
+#### 滴滴出行
 
